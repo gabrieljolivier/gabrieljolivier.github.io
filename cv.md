@@ -1,6 +1,6 @@
 ---
-title: "About Me"
-permalink: "/about me/"
+title: "CV"
+permalink: "/cv/"
 layout: page
 ---
 
