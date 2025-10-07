@@ -8,11 +8,9 @@ Add CV content
 
 [Download](https://github.com/user-attachments/files/22737191/CV.pdf)
 
-<object data="[../assets/path/to/document.pdf](https://github.com/user-attachments/files/22736987/CV_Part1.pdf)" width="1000" height="1000" type='application/pdf'></object>
+![Image](https://github.com/user-attachments/assets/550f29fd-2da2-4b7c-83e2-cac81524b4b8)
 
-![CV_Part1.pdf](https://github.com/user-attachments/files/22736987/CV_Part1.pdf)
+![Image](https://github.com/user-attachments/assets/ac7e2389-f3ed-4345-aa54-53b3ba0aa0b3)
 
-![CV_Part2.pdf](https://github.com/user-attachments/files/22736990/CV_Part2.pdf)
-
-![CV_Part3.pdf](https://github.com/user-attachments/files/22736992/CV_Part3.pdf)
+![Image](https://github.com/user-attachments/assets/29c52894-d971-4382-ac0f-6123d32d96b3)
 
