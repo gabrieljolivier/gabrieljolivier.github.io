@@ -6,5 +6,9 @@ layout: page
 
 Add About Me Content
 
-![alt text](CV_Part2.pdf)
+[CV_Part1.pdf](https://github.com/user-attachments/files/22736987/CV_Part1.pdf)
+
+[CV_Part2.pdf](https://github.com/user-attachments/files/22736990/CV_Part2.pdf)
+
+[CV_Part3.pdf](https://github.com/user-attachments/files/22736992/CV_Part3.pdf)
 
