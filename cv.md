@@ -4,8 +4,6 @@ permalink: "/cv/"
 layout: page
 ---
 
-Add CV content
-
 [Download](https://github.com/user-attachments/files/22737191/CV.pdf)
 
 ![Image](https://github.com/user-attachments/assets/550f29fd-2da2-4b7c-83e2-cac81524b4b8)
