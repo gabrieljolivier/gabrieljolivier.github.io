@@ -26,7 +26,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:golivier1@tulane.edu"}
-  - {title: LinkedIn, icon: linkdin, url: "https://www.linkedin.com/in/gabriel-olivier-1740b2242/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/gabriel-olivier-1740b2242/"}
  
 
 comments:
