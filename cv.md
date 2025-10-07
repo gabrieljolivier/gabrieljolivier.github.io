@@ -6,5 +6,5 @@ layout: page
 
 Add About Me Content
 
-![alt text](cv1.jpg)
+![alt text](CV Part 1.jpg)
 
