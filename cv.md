@@ -5,6 +5,7 @@ layout: page
 ---
 
 Add About Me Content
+[Download CV](https://github.com/user-attachments/files/22736987/CV.pdf)
 
 [CV_Part1.pdf](https://github.com/user-attachments/files/22736987/CV_Part1.pdf)
 
