@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV.pdf", title: "CV", sidebaricon: home}
   - {file: "research.md", title: "Research", sidebaricon: home}
   - {file: "teaching.md", title: "Teaching", sidebaricon: home}
-
+  - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:golivier1@tulane.edu"}
