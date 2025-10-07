@@ -1,10 +1,10 @@
 ---
 title: "CV"
 permalink: "/cv/"
-layout: post
+layout: page
 ---
 
-[Download CV][cv]
 
-[cv]: CV.jpg
 ![alt text](CV.jpg)
+
+
