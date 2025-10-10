@@ -16,6 +16,6 @@ layout: page
 &nbsp; &nbsp; &nbsp; &nbsp; and the most recent federal minimum wage increases, as well as historic policy, \
 &nbsp; &nbsp; &nbsp; &nbsp; including integration busing and the language bans in Louisiana schools. \
 &nbsp; &nbsp; &nbsp; &nbsp; When I am not researching or teaching, I spend my time tending to my plants, \
-&nbsp; &nbsp; &nbsp; &nbsp; skating with friends, and caring for my cat, Mr. Baby. \
+&nbsp; &nbsp; &nbsp; &nbsp; skating with friends, and caring for my cat, Mr. Baby.
 
 
