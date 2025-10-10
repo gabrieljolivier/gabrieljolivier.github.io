@@ -13,7 +13,7 @@ layout: page
 &nbsp; &nbsp; where I use quasi-experimental research designs to estimate the causal effects of \
 &nbsp; &nbsp; policy on educational outcomes I study the effects of contemporary policy, such as \
 &nbsp; &nbsp; the recent expansion of universal school vouchers and the most recent federal \
-&nbsp; &nbsp; minimum wage increases, as well as historic policy, including integration busing and the language bans in \
-&nbsp; &nbsp; Louisiana schools. When I am not researching or teaching, I spend my time trying to be outside with \
+&nbsp; &nbsp; minimum wage increases, as well as historic policy, including integration busing \
+&nbsp; &nbsp; and the language bans in Louisiana schools. When I am not researching or teaching, I spend my time trying to be outside with \
 &nbsp; &nbsp; friends, either roller skating around Audubon Park or basking in the sun in the backyard. 
 
