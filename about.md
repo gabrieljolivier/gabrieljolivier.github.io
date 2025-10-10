@@ -14,6 +14,6 @@ layout: page
 &nbsp; &nbsp; policy on educational outcomes I study the effects of contemporary policy, such as \
 &nbsp; &nbsp; the recent expansion of universal school vouchers and the most recent federal \
 &nbsp; &nbsp; minimum wage increases, as well as historic policy, including integration busing \
-&nbsp; &nbsp; and the language bans in Louisiana schools. When I am not researching or teaching, \
+&nbsp; &nbsp; and the language bans in Louisiana schools. When I am not researching or \
 &nbsp; &nbsp; teaching, I spend my time trying to be outside with friends, either roller skating around Audubon Park or basking in the sun in the backyard. 
 
