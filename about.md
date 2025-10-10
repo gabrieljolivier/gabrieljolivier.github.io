@@ -12,8 +12,8 @@ layout: page
 &nbsp; &nbsp; &nbsp; &nbsp; expecting degree conferral in May 2026. My research focuses on the economics \
 &nbsp; &nbsp; &nbsp; &nbsp; of education, where I use quasi-experimental research designs to estimate the \
 &nbsp; &nbsp; &nbsp; &nbsp; causal effects of policy on educational outcomes I study the effects of \
-&nbsp; &nbsp; &nbsp; &nbsp; contemporary policy, such as the recent expansion of universal school vouchers and the most recent federal \
-&nbsp; &nbsp; &nbsp; &nbsp;  minimum wage increases, as well as historic policy, including integration busing \
+&nbsp; &nbsp; &nbsp; &nbsp; contemporary policy, such as the recent expansion of universal school vouchers \ 
+&nbsp; &nbsp; &nbsp; &nbsp; and the most recent federalminimum wage increases, as well as historic policy, including integration busing \
 &nbsp; &nbsp; &nbsp; &nbsp; and the language bans in Louisiana schools. When I am not researching or \
 &nbsp; &nbsp; &nbsp; &nbsp; teaching, I spend my time trying to be outside with friends, either roller skating \
 &nbsp; &nbsp; &nbsp; &nbsp; around Audubon Park or basking in the sun in the backyard. 
