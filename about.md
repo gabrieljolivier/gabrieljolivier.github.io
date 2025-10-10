@@ -8,8 +8,8 @@ layout: page
 
 <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; I am a Ph.D. candidate in the Tulane University Economics Department, expecting \
-&nbsp; &nbsp; &nbsp; &nbsp; degree conferral in May 2026. My research focuses on the economics of education, \
+&nbsp; &nbsp; &nbsp; &nbsp; I am a Ph.D. candidate in the Tulane University Economics Department, \
+&nbsp; &nbsp; &nbsp; &nbsp; expecting degree conferral in May 2026. My research focuses on the economics of education, \
 &nbsp; &nbsp; &nbsp; &nbsp; where I use quasi-experimental research designs to estimate the causal effects of \
 &nbsp; &nbsp; &nbsp; &nbsp;  policy on educational outcomes I study the effects of contemporary policy, such as \
 &nbsp; &nbsp; &nbsp; &nbsp; the recent expansion of universal school vouchers and the most recent federal \
