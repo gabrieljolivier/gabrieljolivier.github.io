@@ -1,7 +1,8 @@
 ---
 title: "Teaching"
 permalink: "/teaching/"
-layout: page
+layout: post
+categories: media
 ---
 
 ## Courses Taught
