@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "About Me"
 ---
 
 <img width="214" height="320" align="left" alt="" src="https://github.com/user-attachments/assets/2807f22c-da19-40e1-973d-6cc66523914a" />
