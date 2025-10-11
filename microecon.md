@@ -1,5 +1,5 @@
 ---
-title: "Stata Lab"
+title: "Introduction to Microeconomics"
 layout: page
 permalink: /microecon/
 ---
