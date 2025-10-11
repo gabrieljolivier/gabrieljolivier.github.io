@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Microeconomics"
-permalink: "/microecon/"
+permalink: /microecon/
 layout: page
 ---
 
