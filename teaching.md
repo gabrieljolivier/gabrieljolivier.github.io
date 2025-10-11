@@ -2,14 +2,14 @@
 title: "Teaching"
 permalink: "/teaching/"
 layout: post
-categories: media
 ---
 
 ## Courses Taught
-___
+
+<div style="margin-left: 20px;">
 ### [Stata Lab](statalab.md) 
 ### [Introduction to Microeconomics](microecon.md)
-
+</div>
 
 
 ## Reviews
