@@ -5,8 +5,9 @@ layout: page
 ---
 
 ## Courses Taught
-  ### [Stata Lab](statalab.md) 
-  ### [Introduction to Microeconomics](microecon.md)
+
+### [Stata Lab](statalab.md) 
+### [Introduction to Microeconomics](microecon.md)
 
 
 
