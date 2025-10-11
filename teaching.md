@@ -6,10 +6,9 @@ layout: post
 
 ## Courses Taught
 
-<div style="margin-left: 20px;">
-### [Stata Lab](statalab.md) 
-### [Introduction to Microeconomics](microecon.md)
-</div>
+  ### [Stata Lab](statalab.md) 
+  ### [Introduction to Microeconomics](microecon.md)
+
 
 
 ## Reviews
