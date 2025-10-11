@@ -4,4 +4,11 @@ permalink: "/teaching/"
 layout: page
 ---
 
-Add teaching details (link Stata Lab Canvas)
+# Courses Taught
+
+##[Stata Lab](statalab.md)
+##[Introduction to Microeconomics](microecon.md)
+
+# Reviews
+
+# Certifications
