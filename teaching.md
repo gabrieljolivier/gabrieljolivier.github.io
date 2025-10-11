@@ -4,11 +4,11 @@ permalink: "/teaching/"
 layout: page
 ---
 
-# Courses Taught
+## Courses Taught
 
-## [Stata Lab](statalab.md)
-## [Introduction to Microeconomics](microecon.md)
+### [Stata Lab](statalab.md)
+### [Introduction to Microeconomics](microecon.md)
 
-# Reviews
+## Reviews
 
-# Certifications
+## Certifications
