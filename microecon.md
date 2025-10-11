@@ -1,7 +1,7 @@
 ---
-title: "Introduction to Microeconomics"
-permalink: /microecon/
+title: "Stata Lab"
 layout: page
+permalink: /microecon/
 ---
 
 description of intro micro
