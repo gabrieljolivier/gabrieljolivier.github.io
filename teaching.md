@@ -4,14 +4,14 @@ permalink: "/teaching/"
 layout: post
 ---
 
-##[Teaching Philosphy](teachingphi.md)
+## [<ins> Teaching Philosphy </ins>](teachingphi.md)
 
-## Courses Taught
+## <ins> Courses Taught </ins>
 ### [Stata Lab](statalab.md) 
 ### [Introduction to Microeconomics](microecon.md)
 
-## Reviews
-Fall 2024 Stata Lab [Reviews]()
+## <ins> Reviews </ins>
+Fall 2024 Stata Lab [Reviews]() \
 Introduction to Microeconomics and Introduction to Macroeconomics [TA Reviews]()
 ### Other Feedback from Students and Supervised Interns
 <img width="917" height="170" alt="Image" src="https://github.com/user-attachments/assets/fa7b91bf-8e1d-4c4a-a1d6-00989ecf6a53" />
@@ -20,7 +20,7 @@ Introduction to Microeconomics and Introduction to Macroeconomics [TA Reviews]()
 <br>
 <img width="948" height="471" alt="Image" src="https://github.com/user-attachments/assets/2effa6c9-d2dc-4ac8-bde7-7a5f87ad3140" />
 
-## Certifications
+## <ins> Certifications </ins>
 ### Graduate Pedagogy Program
 CELT 7010: The Essentials of Teaching & Learning \
 "This course is one of the series of 3 1-credit hour courses with this course being the first of the series. The nature of this course will comprise the theoretical underpinnings in effective teaching and learning. This course provides the framework upon which excellence in teaching is built. We will approach to better facilitate student learning and improve teaching practices. Students will investigate the science of learning, identify strategies of effective teaching practices, discuss ways to ensure inclusive and diverse classroom environments and the pedagogy or service learning. The course will culminate with the writing of a Teaching Philosophy and creating a Teaching E-Porfolio." \
