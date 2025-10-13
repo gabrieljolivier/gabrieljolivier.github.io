@@ -11,7 +11,7 @@ layout: post
 ### [Introduction to Microeconomics](microecon.md)
 
 ## <ins> Reviews </ins>
-Fall 2024 Stata Lab [Reviews]() \
+Fall 2024 Stata Lab [Instructor Reviews]() \
 Introduction to Microeconomics and Introduction to Macroeconomics [TA Reviews]()
 ### Other Feedback from Students and Supervised Interns
 <img width="917" height="170" alt="Image" src="https://github.com/user-attachments/assets/fa7b91bf-8e1d-4c4a-a1d6-00989ecf6a53" />
