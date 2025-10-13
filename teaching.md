@@ -30,7 +30,7 @@ CELT 7020: Practical Course Design & Teaching Skills \
 "This course building on the theories presented in CELT 7010, will focus on the practical applications of course design, classroom management techniques, the appropriate inclusion of technology and the development of learning-based assessments." \
 \
 CELT 7030: Teaching Practicum \
-This course is designed to provide students feedback on actual teaching opportunities. Some students maybe the faculty of record for a course in their department, others will be a guest lecturer or give lectures to peers.
+"This course is designed to provide students feedback on actual teaching opportunities. Some students maybe the faculty of record for a course in their department, others will be a guest lecturer or give lectures to peers."
 ### College Reading & Learning Association
 International Tutor Training Program Certification Level 2 of 3 (did not complete level 3 due to COVID)
 
