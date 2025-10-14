@@ -13,7 +13,7 @@ layout: post
 ## <ins> Reviews </ins>
 ### Student Course Feedback
 Fall 2024 Stata Lab [Instructor Reviews](https://github.com/user-attachments/files/22876044/Fall_2024_StataLabEvals_GabeOlivier_202430-1-ECON-3983-01-60211.pdf) \
-Introduction to Microeconomics and Introduction to Macroeconomics [TA Reviews](https://github.com/user-attachments/files/22894735intro.micro.and.macro.summer.2024.TA.evals.pdf)
+Introduction to Microeconomics and Introduction to Macroeconomics [TA Reviews](https://github.com/user-attachments/files/22894903/summer24_TA_evals.pdf)
 ### Other Feedback from Students and Supervised Interns
 <img width="917" height="170" alt="Image" src="https://github.com/user-attachments/assets/fa7b91bf-8e1d-4c4a-a1d6-00989ecf6a53" />
 <br>
