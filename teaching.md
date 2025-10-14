@@ -16,11 +16,11 @@ Fall 2024 Stata Lab [Instructor Reviews](https://github.com/user-attachments/fil
 Summer 2024 Introduction to Microeconomics and Introduction to Macroeconomics [TA Reviews](https://github.com/user-attachments/files/22894903/summer24_TA_evals.pdf)
 
 ### Other Feedback from Students and Supervised Interns
-<img width="917" height="170" alt="Image" src="https://github.com/user-attachments/assets/fa7b91bf-8e1d-4c4a-a1d6-00989ecf6a53" />
+<img width="917" height="170" alt="" src="https://github.com/user-attachments/assets/fa7b91bf-8e1d-4c4a-a1d6-00989ecf6a53" />
 <br>
-<img width="957" height="180" alt="Image" src="https://github.com/user-attachments/assets/e47ed495-b0a1-4e7a-8245-1a3211475b56" />
+<img width="957" height="180" alt="" src="https://github.com/user-attachments/assets/e47ed495-b0a1-4e7a-8245-1a3211475b56" />
 <br>
-<img width="948" height="471" alt="Image" src="https://github.com/user-attachments/assets/2effa6c9-d2dc-4ac8-bde7-7a5f87ad3140" />
+<img width="948" height="471" alt="" src="https://github.com/user-attachments/assets/2effa6c9-d2dc-4ac8-bde7-7a5f87ad3140" />
 
 ## <ins> Certifications </ins>
 ### Tulane Center for Engaged Learning and Teaching 3-Semester Graduate Pedagogy Program
