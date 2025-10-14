@@ -4,11 +4,11 @@ permalink: "/teaching/"
 layout: post
 ---
 
-## [<ins> Teaching Philosphy </ins>](teachingphil.md)
-
 ## <ins> Courses Taught </ins>
 ### [Stata Lab](statalab.md) 
 ### [Introduction to Microeconomics](microecon.md)
+
+## [<ins> Teaching Philosphy </ins>](teachingphil.md)
 
 ## <ins> Reviews </ins>
 ### Student Course Feedback
