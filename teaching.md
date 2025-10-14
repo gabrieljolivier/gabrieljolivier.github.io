@@ -8,7 +8,7 @@ layout: post
 ### [Stata Lab](statalab.md) 
 ### [Introduction to Microeconomics](microecon.md)
 
-## [<ins> Teaching Philosphy </ins>](teachingphil.md)
+## [<ins> Teaching Philosophy </ins>](teachingphil.md)
 
 ## <ins> Reviews </ins>
 ### Student Course Feedback
