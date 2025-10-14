@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching, Reviews, and Certifications"
 permalink: "/teaching/"
 layout: post
 ---
