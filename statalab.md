@@ -13,9 +13,9 @@ permalink: /statalab/
 <p> As this course prepares students to use data analysis to answer economic questions, I stressed the importance of validly interpreting Stata output from statistical tests. Focusing on intuition rather than pure math, I highlighted the assumptions underpinning inference and how to learn about the real world using data analysis. This led me to give overviews of econometric concepts that focused on setup and interpretation, which students found helpful not only for Stata Lab, but for their econometrics course as well. By the end of the course, students have the tools to take data they find in the real world, import it into Stata, and use their data analysis skills to answer basic questions.
 </p>
 
-## Examples of Class Slides and .do Files
+## Examples of Class Slides and Assignment .do Files
 
 ### [Panel Data Methods Slides](https://github.com/user-attachments/files/22895707/SL_slides_w13.pdf) 
 ### [Time Series and Forecasting Slides](https://github.com/user-attachments/files/22895709/SL_slides_w11.pdf) 
-### Estimating the effects of passenger sex and passenger class on the probability of survival on the Titanic [in-class activity](W10_InClass.do) and [answer key](W10_InClass_answerkey.do)
+### [In-Class Activity](W10_InClass.do) and [Answer Key](W10_InClass_answerkey.do): Estimating the Effects of Passenger Sex and Class on the Probability of Survival on the Titanic
 
