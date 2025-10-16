@@ -15,7 +15,7 @@ permalink: /statalab/
 
 ## Examples of Class Slides and Assignment .do Files
 
-### [Panel Data Methods Slides](https://github.com/user-attachments/files/22895707/SL_slides_w13.pdf) 
-### [Time Series and Forecasting Slides](https://github.com/user-attachments/files/22895709/SL_slides_w11.pdf) 
+### [Panel Data Methods Slides](https://github.com/user-attachments/files/22895709/SL_slides_w11.pdf) 
+### [Time Series and Forecasting Slides](https://github.com/user-attachments/files/22895707/SL_slides_w13.pdf)
 ### [In-Class Activity](W10_InClass.do) and [Answer Key](W10_InClass_answerkey.do): Estimating the Effects of Passenger Sex and Class on the Probability of Survival on the Titanic
 
