@@ -11,7 +11,7 @@ layout: page
 
 &nbsp; &nbsp; &nbsp; &nbsp; I am a Ph.D. candidate in the Tulane University Economics Department, \
 &nbsp; &nbsp; &nbsp; &nbsp; expecting degree conferral in May 2026. My research focuses on the economics \
-&nbsp; &nbsp; &nbsp; &nbsp; of education, where I use quasi-experimental research designs to estimate the \
+&nbsp; &nbsp; &nbsp; &nbsp; of education, where I use quasi-experimental methods to estimate the \
 &nbsp; &nbsp; &nbsp; &nbsp; causal effects of policy on educational outcomes. I study the effects of \
 &nbsp; &nbsp; &nbsp; &nbsp; contemporary policy, such as the recent expansion of universal school vouchers \
 &nbsp; &nbsp; &nbsp; &nbsp; and the most recent federal minimum wage increases, as well as historic policy, \
