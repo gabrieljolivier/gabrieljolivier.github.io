@@ -9,7 +9,7 @@ title: "About Me"
 <br>
 
 <div>
-I am a Ph.D. candidate in the Tulane University Economics Department,
+&nbsp; &nbsp; &nbsp; &nbsp; I am a Ph.D. candidate in the Tulane University Economics Department,
 expecting degree conferral in May 2026. My research focuses on the economics
 of education, where I use quasi-experimental methods to estimate the 
 causal effects of policy on educational outcomes. I study the effects of
