@@ -3,11 +3,11 @@ layout: page
 title: "About Me"
 ---
 
-<img width="214" height="320" align="left" alt="" src="https://github.com/user-attachments/assets/2807f22c-da19-40e1-973d-6cc66523914a" />
+<img width="214" height="320" align="left" alt="" src="https://github.com/user-attachments/assets/2807f22c-da19-40e1-973d-6cc66523914a" /> &nbsp; &nbsp; &nbsp; &nbsp;
 
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp;
+
 <div style="margin-left:100px">
 I am a Ph.D. candidate in the Tulane University Economics Department,
 expecting degree conferral in May 2026. My research focuses on the economics
