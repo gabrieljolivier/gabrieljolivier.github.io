@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-<img width="268" height="400" align="left" alt="" src="https://github.com/user-attachments/assets/29a07e9d-28b2-4105-a6de-490195a0b666" />
+<img width="241" height="360" align="left" alt="" src="https://github.com/user-attachments/assets/29a07e9d-28b2-4105-a6de-490195a0b666" />
 
 <br>
 <br>
