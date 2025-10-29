@@ -17,3 +17,4 @@ Media References:
 ## <ins> Research In Progress </ins>
 ### [Desegregation Busing and the Market for Private Schools](deseg.md)
 ### [Forced Migration, Xenophobia, and Educational Attainment: The Acadian Diaspora and the 1921 Louisiana Ban on Cajun French in Public Schools](acadian.md)
+### Universal School Vouchers and Market Dynamics: The Effect of Recent Reforms in the US (with Douglas N. Harris and Matías Morales)
