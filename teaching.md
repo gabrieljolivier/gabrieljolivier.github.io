@@ -4,7 +4,7 @@ permalink: "/teaching/"
 layout: post
 ---
 
-## <ins> Overview, Courses Taught, and Teaching Philosophy </ins>
+## <ins> Background, University Courses Taught, and Teaching Philosophy </ins>
 My teaching experience can be split into three bins: private tutoring and small-scale teaching, ACT prep curriculum design and implementation, and university teaching. Since high school, I have privately tutored students of all levels, and I deeply enjoy the mentoring relationships I build with my students, as well as witnessing their improvement over time. I have been privately employed as an independent tutor, a tutor for LSU student-athletes, a tutor for a private study center, and a teacher for summer programs, which has given me a wealth of experience working with students from all walks of life. I also designed, refined, implemented, and sold an ACT prep program while employed at a private study center. I had the opportunity to dive into the education literature and design a course of my own, settling on a prep program centered on metacognition and data-driven instruction. Creating this program provided valuable experience in determining the foundation of a course, developing instruction based on that foundation, and refining it after implementation. The private study center still uses my ACT prep program today. With undergraduate degrees in Mathematics, Economics, and Political Science, I have found that one of my greatest strengths is communicating complex ideas across disciplines. This is particularly helpful when teaching mathematics and statistical methods to students without a background in mathematics.
 
 ### [Stata Lab](statalab.md) 
