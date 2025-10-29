@@ -5,7 +5,7 @@ title: "About Me"
 
 
 
-![image](https://github.com/user-attachments/assets/2807f22c-da19-40e1-973d-6cc66523914a){: height="214" width="320" style="float:left padding-right:10px}
+![image](https://github.com/user-attachments/assets/2807f22c-da19-40e1-973d-6cc66523914a){: height="214" width="320" style="float:left padding-right:10px"}
 <br>
 <br>
 
