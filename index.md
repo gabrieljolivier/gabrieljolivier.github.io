@@ -7,7 +7,7 @@ title: "About Me"
 
 <br>
 <br>
-
+&nbsp; &nbsp; &nbsp; &nbsp;
 <div style="margin-left:100px">
 I am a Ph.D. candidate in the Tulane University Economics Department,
 expecting degree conferral in May 2026. My research focuses on the economics
