@@ -12,7 +12,7 @@ _Abstract_: The minimum wage affects both employment and wages and therefore the
 
 ## <ins> Working Papers </ins>
 ### [The Effects of Universal School Vouchers on Private School Tuition and Enrollment: A National Analysis](https://reachcentered.org/publications/the-effects-of-universal-school-vouchers-on-private-school-tuition-and-enrollment-a-national-analysis/) (with Douglas N. Harris) 
-_Under Review:_ American Economic Journal: Economic Policy \
+_Under Review:_ AEJ: Economic Policy \
 Media References: 
 [The New York Times](https://www.nytimes.com/2025/09/12/us/voucher-study-private-school-tuition.html), 
 [Fordham Institute's Education Gadfly Podcast](https://fordhaminstitute.org/national/resources/negative-naep-news-and-real-reason-screen-time-hurting-student-learning-episode), and
