@@ -4,11 +4,11 @@ permalink: "/cv/"
 layout: page
 ---
 
-[Download](https://github.com/user-attachments/files/22737191/CV.pdf)
+[Download](https://github.com/user-attachments/files/23688177/CV_11_25.pdf)
 
-![Image](https://github.com/user-attachments/assets/bcbec971-74b5-4e22-b4dc-4d52157f29c0)
+![](https://github.com/user-attachments/assets/eb8bb4a3-20e2-4082-9f60-8d7d15b81c02)
 
-![Image](https://github.com/user-attachments/assets/ac7e2389-f3ed-4345-aa54-53b3ba0aa0b3)
+![](https://github.com/user-attachments/assets/285ccd6e-735b-44a3-a3fb-12cf05fd80de)
 
-![Image](https://github.com/user-attachments/assets/29c52894-d971-4382-ac0f-6123d32d96b3)
+![](https://github.com/user-attachments/assets/86ff4aed-75d2-4d40-8548-1b2e0ab69072)
 
