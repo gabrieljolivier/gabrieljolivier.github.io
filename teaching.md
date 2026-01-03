@@ -13,8 +13,8 @@ My teaching experience can be split into three bins: private tutoring and small-
 
 ## <ins> Reviews </ins>
 ### Student Course Feedback
-Fall 2025 Introduction to Microeconomics Mid-Semester [Instructor Reviews](https://github.com/user-attachments/files/23572526/Intro.Micro.Fall.2025.Mid-Semester.Evals.pdf) \
-Fall 2024 Stata Lab [Instructor Reviews](https://github.com/user-attachments/files/22876044/Fall_2024_StataLabEvals_GabeOlivier_202430-1-ECON-3983-01-60211.pdf) \
+Fall 2025 Introduction to Microeconomics [Course Evaluations (Intructor)](https://github.com/user-attachments/files/24416856/Fall_2025_NovembertoDecember_GabeOlivier_202530-1-ECON-1010-06-64346.pdf) \
+Fall 2024 Stata Lab [Course Evaluations (Instructor)](https://github.com/user-attachments/files/22876044/Fall_2024_StataLabEvals_GabeOlivier_202430-1-ECON-3983-01-60211.pdf) \
 Summer 2024 Introduction to Microeconomics and Introduction to Macroeconomics [TA Reviews](https://github.com/user-attachments/files/22894903/summer24_TA_evals.pdf)
 
 ### Other Feedback from Students and Supervised Interns
